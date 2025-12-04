@@ -1,0 +1,2 @@
+model,epochs,best_val_acc,final_val_acc,final_val_loss,params,model_size_MB,total_time_s
+resnet10,300,0.9048,0.8958,0.446232132768631,1290602,4.923255920410156,648.0997319221497

@@ -1,0 +1,2 @@
+model,epochs,best_val_acc,final_val_acc,final_val_loss,params,model_size_MB,total_time_s
+cnn,300,0.7801,0.7797,0.6772065868854523,1070794,4.084754943847656,486.88967657089233
